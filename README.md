@@ -14,7 +14,7 @@
       
 - 🌱 I’m currently working as a postdoc in a socio-medical field at a German university clinic.
 
-- 📫 How to reach me ...
+- 📫 How to reach me ... philipp.bentz@med.uni-heidelberg.de
 
 <!---
 datOrganist/datOrganist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
