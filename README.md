@@ -12,7 +12,7 @@
       - Dispersion of low level data (Standard deviation from mode (SDM))
       
       
-- 🌱 I’m currently working as a postdoc in a socio-medical field at a German university clinic.
+- 🌱 I’m currently working as a postdoc in a socio-medical field at the Heidelberg university clinic.
 
 - 📫 How to reach me ... philipp.bentz@med.uni-heidelberg.de
 
